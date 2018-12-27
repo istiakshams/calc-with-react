@@ -1,4 +1,10 @@
-##Just a simple Calculator test with React
+<h1>Just a simple Calculator test with React</h1>
+<p>Learing react was really fun and a great experience!</p>
+
+<h2>TODO</h2>
+<ul>
+  <li>Update calculation logic</li>
+</ul>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
